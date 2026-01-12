@@ -1,0 +1,75 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 07cfd2dead9a06a449b2533765658eeb, type: 3}
+  m_Name: LevelData
+  m_EditorClassIdentifier: 
+  levels:
+  - levelNumber: 1
+    levelName: 1
+    levelPrefab: {fileID: 3582369515110071112, guid: 200e4f11b0f16054cb58cbf026d6c2f2, type: 3}
+    levelThumbnail: {fileID: 0}
+  - levelNumber: 2
+    levelName: 2
+    levelPrefab: {fileID: 717944921822078133, guid: 926ab33ede718f844a9d6e02e3d492d6, type: 3}
+    levelThumbnail: {fileID: 0}
+  - levelNumber: 3
+    levelName: 3
+    levelPrefab: {fileID: 7817058602534566013, guid: d70371d6547dfb243bf87c7f6e1455e5, type: 3}
+    levelThumbnail: {fileID: 0}
+  - levelNumber: 4
+    levelName: 4
+    levelPrefab: {fileID: 4342542149758057143, guid: 5a8a3dca1fed6b44aa8a1ec09364bef0, type: 3}
+    levelThumbnail: {fileID: 0}
+  - levelNumber: 5
+    levelName: 5
+    levelPrefab: {fileID: 6546838554405231314, guid: 9dc5ef2dece31fa40a9dc0c6e82e2247, type: 3}
+    levelThumbnail: {fileID: 0}
+  - levelNumber: 6
+    levelName: 6
+    levelPrefab: {fileID: 4126124212936492636, guid: 2d63104290b792b4c8a40f9fe5c5bc03, type: 3}
+    levelThumbnail: {fileID: 0}
+  - levelNumber: 7
+    levelName: 7
+    levelPrefab: {fileID: 7064265692532364924, guid: 146f558630095974483a75f1c7086323, type: 3}
+    levelThumbnail: {fileID: 0}
+  - levelNumber: 8
+    levelName: 8
+    levelPrefab: {fileID: 755076830069643864, guid: 22c4f2eafbd705e4890415f2c4879358, type: 3}
+    levelThumbnail: {fileID: 0}
+  - levelNumber: 9
+    levelName: 9
+    levelPrefab: {fileID: 6850471685986753036, guid: ca5ffddf93b01db42840524e5a21c4a6, type: 3}
+    levelThumbnail: {fileID: 0}
+  - levelNumber: 10
+    levelName: 10
+    levelPrefab: {fileID: 6782711147187533243, guid: 7dd4086a9d1efe84d9982291f15fb945, type: 3}
+    levelThumbnail: {fileID: 0}
+  - levelNumber: 11
+    levelName: 11
+    levelPrefab: {fileID: 6865914426218665486, guid: d9444a0bad54b5b49a93ae8251cb6f45, type: 3}
+    levelThumbnail: {fileID: 0}
+  - levelNumber: 12
+    levelName: 12
+    levelPrefab: {fileID: 3148417159975257185, guid: 8e40664508574814896b67b80c47cb75, type: 3}
+    levelThumbnail: {fileID: 0}
+  - levelNumber: 13
+    levelName: 13
+    levelPrefab: {fileID: 5726300450386836855, guid: 25f9f10621a0b1a49987cd14def653e2, type: 3}
+    levelThumbnail: {fileID: 0}
+  - levelNumber: 14
+    levelName: 14
+    levelPrefab: {fileID: 9054024051990635284, guid: cb6068defc83eba45ba6a04044c97863, type: 3}
+    levelThumbnail: {fileID: 0}
+  - levelNumber: 15
+    levelName: 15
+    levelPrefab: {fileID: 2151188075301394829, guid: 0e0218a545a5db343b776940644458ac, type: 3}
+    levelThumbnail: {fileID: 0}

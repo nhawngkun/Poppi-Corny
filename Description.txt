@@ -1,0 +1,59 @@
+Đây là một game puzzle điều khiển nhân vật trên các ô đường hẹp.
+
+Mục tiêu của mỗi màn chơi là làm cho bông hoa trên bản đồ nở hoàn toàn.
+
+Để hoa nở, bạn phải bước lên tất cả các ô box quy định trên bản đồ.
+
+Nhân vật là sinh vật nhỏ màu xanh đứng trên các ô đường.
+
+Bạn điều khiển nhân vật di chuyển theo 4 hướng: lên, xuống, trái, phải.
+
+Nhân vật chỉ có thể đi trên các ô đường màu xanh hiện có.
+
+Bạn không thể đi ra ngoài mép bản đồ hoặc rời khỏi các ô đường.
+
+Mỗi ô box khi nhân vật bước lên sẽ được kích hoạt.
+
+Một ô đã kích hoạt sẽ đổi hiệu ứng, sáng hơn, hoặc thay sprite.
+
+Mỗi ô box chỉ cần kích hoạt một lần duy nhất.
+
+Nếu bạn bỏ sót ô box nào thì hoa sẽ không nở hoàn chỉnh.
+
+Khi tất cả ô box đã được kích hoạt, hoa sẽ nở trọn vẹn.
+
+Lúc đó, bạn sẽ hoàn thành level và có thể sang màn tiếp theo.
+
+Mỗi màn thường có đường đi uốn lượn và dễ bị kẹt nếu đi sai thứ tự.
+
+Vì vậy, người chơi cần tính toán hướng đi trước khi di chuyển.
+
+Một số bản đồ yêu cầu bạn đi theo một lộ trình duy nhất mới không bị kẹt.
+
+Ví dụ: nếu tiến quá sâu vào một ngõ cụt trước khi kích hoạt các ô khác, bạn sẽ không thể quay lại được.
+
+Trong trường hợp đó, bạn phải reset hoặc undo để chơi lại.
+
+Game không có hành động tấn công hay chiến đấu.
+
+Trò chơi tập trung hoàn toàn vào tư duy, tính toán và giải đố.
+
+Mỗi màn chơi là một thử thách nhỏ nhưng rõ ràng và logic.
+
+Bản đồ càng về sau càng dài và phức tạp hơn.
+
+Các ô box có thể nằm ở những vị trí xa nhau yêu cầu bạn đi đúng đường.
+
+Game khuyến khích người chơi quan sát toàn bộ bản đồ trước khi di chuyển.
+
+Không có giới hạn thời gian nên bạn có thể suy nghĩ thoải mái.
+
+Một số màn có nhiều hoa nhưng vẫn cùng luật: kích hoạt đủ box là được.
+
+Hoa trên màn hình chính là trạng thái tiến độ của người chơi.
+
+Càng nhiều box được kích hoạt, hoa càng nở to hơn.
+
+Khi hoa nở hết cánh, game sẽ báo thắng ngay lập tức.
+
+Nhiệm vụ duy nhất của người chơi: đi đúng tất cả ô box và không để mình bị kẹt.
